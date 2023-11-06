@@ -1,0 +1,1777 @@
+﻿<!DOCTYPE html>
+<html class="no-js aws-lng-ja_JP aws-with-target" data-css-version="1.0.490" data-js-version="1.0.557" data-static-assets="https://a0.awsstatic.com" lang="ja-JP">
+ <head>
+  <meta content="default-src 'self' data: https://a0.awsstatic.com; connect-src 'self' https://*.analytics.console.aws.a2z.com https://*.prod.chc-features.uxplatform.aws.dev https://112-tzm-766.mktoresp.com https://112-tzm-766.mktoutil.com https://a0.awsstatic.com https://a0.p.awsstatic.com https://a1.awsstatic.com https://amazonwebservices.d2.sc.omtrdc.net https://amazonwebservicesinc.tt.omtrdc.net https://api.regional-table.region-services.aws.a2z.com https://api.us-west-2.prod.pricing.aws.a2z.com https://auth.aws.amazon.com https://aws.amazon.com https://aws.demdex.net https://b0.p.awsstatic.com https://c0.b0.p.awsstatic.com https://calculator.aws https://chat.us-east-1.prod.mrc-sunrise.marketing.aws.dev https://chatbot-api.us-east-1.prod.mrc-sunrise.marketing.aws.dev https://cm.everesttech.net https://csml-plc-prod.us-west-2.api.aws/plc/csml/logging https://d0.awsstatic.com https://d1.awsstatic.com https://d1fgizr415o1r6.cloudfront.net https://d2c.aws.amazon.com https://d3borx6sfvnesb.cloudfront.net https://dftu77xade0tc.cloudfront.net https://dpm.demdex.net https://fls-na.amazon.com https://i18n-string.us-west-2.prod.pricing.aws.a2z.com https://infra-api.us-east-1.prod.mrc-sunrise.marketing.aws.dev https://livechat-api.us-east-1.prod.mrc-sunrise.marketing.aws.dev https://pricing-table.us-west-2.prod.site.p.awsstatic.com https://prod-us-west-2.csp-report.marketing.aws.dev https://prod.log.shortbread.aws.dev https://prod.tools.shortbread.aws.dev https://public.lotus.awt.aws.a2z.com https://s0.awsstatic.com https://s3.amazonaws.com/aws-messaging-pricing-information/ https://s3.amazonaws.com/public-pricing-agc/ https://spot-bid-advisor.s3.amazonaws.com https://t0.m.awsstatic.com https://target.aws.amazon.com https://token.us-west-2.prod.site.p.awsstatic.com https://view-stage.us-west-2.prod.pricing.aws.a2z.com https://view-staging.us-east-1.prod.plc1-prod.pricing.aws.a2z.com https://vs.aws.amazon.com https://wrp.aws.amazon.com https://www.youtube-nocookie.com wss://*.transport.connect.us-east-1.amazonaws.com; font-src 'self' data: https://a0.awsstatic.com https://f0.awsstatic.com https://fonts.gstatic.com; frame-src 'self' https://aws.demdex.net https://c0.b0.p.awsstatic.com https://calculator.aws https://conversational-experience-worker.widget.console.aws.amazon.com/lotus/isolatedIFrame https://dpm.demdex.net https://pricing-table.us-west-2.prod.site.p.awsstatic.com https://token.us-west-2.prod.site.p.awsstatic.com https://www.youtube-nocookie.com; img-src 'self' data: https://*.ads.linkedin.com https://*.vidyard.com https://*.ytimg.com https://a0.awsstatic.com https://amazonwebservices.d2.sc.omtrdc.net https://aws-quickstart.s3.amazonaws.com https://aws.amazon.com https://aws.demdex.net https://awsmedia.s3.amazonaws.com https://chat.us-east-1.prod.mrc-sunrise.marketing.aws.dev https://cm.everesttech.net https://d1.awsstatic.com https://d1d1et6laiqoh9.cloudfront.net https://d2908q01vomqb2.cloudfront.net https://d2c.aws.amazon.com https://d2cpw7vd6a2efr.cloudfront.net https://d36cz9buwru1tt.cloudfront.net https://docs.aws.amazon.com https://dpm.demdex.net https://fls-na.amazon.com https://google.ca https://google.co.in https://google.co.jp https://google.co.th https://google.co.uk https://google.com https://google.com.ar https://google.com.au https://google.com.br https://google.com.hk https://google.com.mx https://google.com.tr https://google.com.tw https://google.de https://google.es https://google.fr https://google.it https://google.nl https://google.pl https://google.ru https://googleads.g.doubleclick.net https://img.youtube.com https://marketingplatform.google.com https://media.amazonwebservices.com https://p.adsymptotic.com https://pages.awscloud.com https://s3.amazonaws.com/aws-quickstart/ https://ssl-static.libsyn.com https://static-cdn.jtvnw.net https://www.google.com https://www.linkedin.com https://yt3.ggpht.com; media-src 'self' https://*.libsyn.com https://a0.awsstatic.com https://anchor.fm https://awsmedia.s3.amazonaws.com https://awspodcastsiberiaent.s3.eu-west-3.amazonaws.com https://chat.us-east-1.prod.mrc-sunrise.marketing.aws.dev https://chtbl.com https://d1.awsstatic.com https://d1hemuljm71t2j.cloudfront.net https://d1le29qyzha1u4.cloudfront.net https://d1oqpvwii7b6rh.cloudfront.net https://d1vo51ubqkiilx.cloudfront.net https://d1yyh5dhdgifnx.cloudfront.net https://d2908q01vomqb2.cloudfront.net https://d2a6igt6jhaluh.cloudfront.net https://d3ctxlq1ktw2nl.cloudfront.net https://d3h2ozso0dirfl.cloudfront.net https://dgen8gghn3u86.cloudfront.net https://dk261l6wntthl.cloudfront.net https://download.stormacq.com/aws/podcast/ https://dts.podtrac.com https://media.amazonwebservices.com https://mktg-apac.s3-ap-southeast-1.amazonaws.com https://s3-ap-northeast-1.amazonaws.com/aws-china-media/ https://www.buzzsprout.com; object-src 'none'; script-src 'nonce-xsp7AIieRU2oQ8SMHCbQKA==' 'self' https://*.cdn.console.awsstatic.com/ https://*.cdn.uis.awsstatic.com/ https://a.b.cdn.console.awsstatic.com https://a0.awsstatic.com https://amazonwebservicesinc.tt.omtrdc.net https://chat.us-east-1.prod.mrc-sunrise.marketing.aws.dev https://d2c.aws.amazon.com https://googleads.g.doubleclick.net https://loader.us-east-1.prod.mrc-sunrise.marketing.aws.dev https://spot-price.s3.amazonaws.com https://static.doubleclick.net https://t0.m.awsstatic.com https://website.spot.ec2.aws.a2z.com https://www.google.com https://www.gstatic.com https://www.youtube.com/iframe_api https://www.youtube.com/s/player/; style-src 'self' 'unsafe-inline' https://a0.awsstatic.com" data-report-uri="https://prod-us-west-2.csp-report.marketing.aws.dev/submit" http-equiv="Content-Security-Policy"/>
+  <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <link crossorigin="anonymous" href="https://a0.awsstatic.com" rel="preconnect"/>
+  <link href="https://a0.awsstatic.com" rel="dns-prefetch"/>
+  <link href="https://d1.awsstatic.com" rel="dns-prefetch"/>
+  <link href="https://amazonwebservicesinc.tt.omtrdc.net" rel="dns-prefetch"/>
+  <link href="https://s0.awsstatic.com" rel="dns-prefetch"/>
+  <title>
+   AWS イベントスケジュール  | AWS
+  </title>
+  <meta content="アマゾン ウェブ サービスの最新情報・事例、利用方法等の情報が取得できる、様々なイベントの最新スケジュールをご紹介しています。ぜひお気軽にご参加ください。" name="description"/>
+  <meta content="index, follow" name="robots"/>
+  <meta content="AWS イベントスケジュール  | AWS" property="twitter:title"/>
+  <meta content="アマゾン ウェブ サービスの最新情報・事例、利用方法等の情報が取得できる、様々なイベントの最新スケジュールをご紹介しています。ぜひお気軽にご参加ください。" property="twitter:description"/>
+  <meta content="AWS イベントスケジュール  | AWS" property="og:title"/>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+  <link href="https://aws.amazon.com/jp/events/" rel="canonical"/>
+  <link href="https://aws.amazon.com/ar/events/" hreflang="ar-sa" rel="alternate"/>
+  <link href="https://aws.amazon.com/de/events/" hreflang="de-de" rel="alternate"/>
+  <link href="https://aws.amazon.com/events/" hreflang="en-us" rel="alternate"/>
+  <link href="https://aws.amazon.com/es/events/" hreflang="es-es" rel="alternate"/>
+  <link href="https://aws.amazon.com/fr/events/" hreflang="fr-fr" rel="alternate"/>
+  <link href="https://aws.amazon.com/id/events/" hreflang="id-id" rel="alternate"/>
+  <link href="https://aws.amazon.com/it/events/" hreflang="it-it" rel="alternate"/>
+  <link href="https://aws.amazon.com/jp/events/" hreflang="ja-jp" rel="alternate"/>
+  <link href="https://aws.amazon.com/ko/events/" hreflang="ko-kr" rel="alternate"/>
+  <link href="https://aws.amazon.com/pt/events/" hreflang="pt-br" rel="alternate"/>
+  <link href="https://aws.amazon.com/ru/events/" hreflang="ru-ru" rel="alternate"/>
+  <link href="https://aws.amazon.com/th/events/" hreflang="th-th" rel="alternate"/>
+  <link href="https://aws.amazon.com/tr/events/" hreflang="tr-tr" rel="alternate"/>
+  <link href="https://aws.amazon.com/vi/events/" hreflang="vi-vn" rel="alternate"/>
+  <link href="https://aws.amazon.com/cn/events/" hreflang="zh-cn" rel="alternate"/>
+  <link href="https://aws.amazon.com/tw/events/" hreflang="zh-tw" rel="alternate"/>
+  <script async="true" src="https://a0.awsstatic.com/libra/1.0.557/csp/csp-report.js">
+  </script>
+  <meta content="summary" property="twitter:card"/>
+  <meta content="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_179x109.png" property="twitter:image"/>
+  <meta content="@awscloud" property="twitter:site"/>
+  <meta content="153063591397681" property="fb:pages"/>
+  <meta content="pjxJUyWxae" name="baidu-site-verification"/>
+  <meta content="cbe5c6f0249e273e71fffd6d6580ce09" name="360-site-verification"/>
+  <meta content="79b94bb338f010af876605819a332e19_1617844070" name="shenma-site-verification"/>
+  <meta content="Ow8cCy3Hgq" name="sogou_site_verification"/>
+  <link href="https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico" rel="icon" type="image/ico"/>
+  <link href="https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico" rel="shortcut icon" type="image/ico"/>
+  <link href="https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png" rel="apple-touch-icon" sizes="57x57"/>
+  <link href="https://a0.awsstatic.com/libra-css/images/site/touch-icon-ipad-144-smile.png" rel="apple-touch-icon" sizes="72x72"/>
+  <link href="https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png" rel="apple-touch-icon" sizes="114x114"/>
+  <link href="https://a0.awsstatic.com/libra-css/images/site/touch-icon-ipad-144-smile.png" rel="apple-touch-icon" sizes="144x144"/>
+  <meta content="company" property="og:type"/>
+  <meta content="https://aws.amazon.com/jp/events/" property="og:url"/>
+  <meta content="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" property="og:image"/>
+  <meta content="Amazon Web Services, Inc." property="og:site_name"/>
+  <meta content="XHghG81ulgiW-3EylGcF48sG28tBW5EH0bNUhgo_DrU" name="google-site-verification"/>
+  <meta content="6F92E52A288E266E30C2797ECB5FCCF3" name="msvalidate.01"/>
+  <link href="https://a0.awsstatic.com/libra-css/css/1.0.490/style-awsm.css" rel="stylesheet"/>
+  <script nonce="xsp7AIieRU2oQ8SMHCbQKA==" type="esms-options">
+   {"nonce": "xsp7AIieRU2oQ8SMHCbQKA==","noLoadEventRetriggers": true}
+  </script>
+  <script async="" nonce="xsp7AIieRU2oQ8SMHCbQKA==" src="https://a0.awsstatic.com/eb-csr/1.0.68/polyfills/es-module-shims/es-module-shims.js">
+  </script>
+  <script nonce="xsp7AIieRU2oQ8SMHCbQKA==" type="importmap">
+   {
+    "imports": {
+      "react": "https://a0.awsstatic.com/eb-csr/1.0.68/react/react.js",
+      "react/jsx-runtime": "https://a0.awsstatic.com/eb-csr/1.0.68/react/jsx-runtime.js",
+      "react-dom": "https://a0.awsstatic.com/eb-csr/1.0.68/react/react-dom.js",
+      "react-dom/server": "https://a0.awsstatic.com/eb-csr/1.0.68/react/server-browser.js",
+      "react-dom-server-browser": "https://a0.awsstatic.com/eb-csr/1.0.68/react/react-dom-server-browser.js"
+    }
+  }
+  </script>
+  <script id="aws-page-settings" type="application/json">
+   {
+    "supportedLanguages": ["ar","cn","de","en","es","fr","id","it","jp","ko","pt","ru","th","tr","tw","vi"],
+    "defaultLanguage": "en",
+    "logDataSet": "LIVE:PROD",
+    "logInstance": "PUB",
+    "csdsEndpoint": "https://aws.amazon.com/",
+    "framework": "v2",
+    "g11nLibPath": "https://a0.awsstatic.com/g11n-lib/2.0.104",
+    "i18nStringPath": "https://i18n-string.us-west-2.prod.pricing.aws.a2z.com",
+    "libraCSSPath": "https://a0.awsstatic.com/libra-css/css/1.0.490",
+    "libraCSSImagePath": "https://a0.awsstatic.com/libra-css/images",
+    "isLoggingEnabled": true,
+    "currentLanguage": "ja-JP",
+    "currentStage": "Prod",
+    "isBJS": false,
+    "isMarketplace": false,
+    "isRTL": false,
+    "requireBaseUrl": "https://a0.awsstatic.com",
+    "requirePackages":[
+      {
+          "name": "libra",
+          "location": "libra/1.0.557"
+      }
+    ],
+    "requirePaths": {
+      "directories": "https://a0.awsstatic.com/libra/1.0.557/directories",
+      "libra-cardsui": "https://a0.awsstatic.com/libra/1.0.557/libra-cardsui",
+      "librastandardlib": "https://a0.awsstatic.com/libra/1.0.557/librastandardlib",
+      "aws-blog": "https://a0.awsstatic.com/aws-blog/1.0.66/js",
+      "plc": "https://a0.awsstatic.com/plc/js/1.0.136/plc",
+      "scripts": "libra/1.0.557/v1-polyfills/scripts",
+      "libra-search": "https://a0.awsstatic.com/libra-search/1.0.18/js",
+      "pricing-calculator": "https://a0.awsstatic.com/pricing-calculator/js/1.0.2",
+      "pricing-savings-plan": "https://a0.awsstatic.com/pricing-savings-plan/js/1.0.20"
+    },
+    "staticAssetPath": "https://a0.awsstatic.com",
+    "jsAssetPath": "https://a0.awsstatic.com/libra/1.0.557"
+  }
+  </script>
+  <script src="https://a0.awsstatic.com/libra/1.0.557/libra-head.js">
+  </script>
+  <script src="https://a0.awsstatic.com/s_code/js/3.0/awshome_s_code.js">
+  </script>
+  <script src="https://d2c.aws.amazon.com/client/loader/v1/d2c-load.js">
+  </script>
+  <link href="https://a0.awsstatic.com/eb-csr/1.0.68/orchestrate.css" rel="stylesheet"/>
+  <script async="true" src="https://a0.awsstatic.com/eb-csr/1.0.68/orchestrate.js" type="module">
+  </script>
+  <script id="target-mediator" type="application/json">
+   {"pageLanguage":"jp","supportedLanguages":["ar","cn","de","en","es","fr","id","it","jp","ko","pt","ru","th","tr","tw","vi"],"offerOrigin":"https://s0.awsstatic.com"}
+  </script>
+  <script async="true" data-js-script="target-mediator" src="https://a0.awsstatic.com/target/1.0.120/aws-target-mediator.js">
+  </script>
+ </head>
+ <body class="awsm">
+  <script async="true" data-config='{"appEntity":"aws-marketing","region":"us-west-1","service":"global-site","trackerConstants":{"cookieDomain":"aws.amazon.com"}}' id="awsc-panorama-bundle" src="https://prod.pa.cdn.uis.awsstatic.com/panorama-nav-init.js" type="text/javascript">
+  </script>
+  <a class="lb-sr-only lb-sr-only-focusable lb-bold lb-skip-el" href="#aws-page-content-main" id="aws-page-skip-to-main">
+   メインコンテンツに移動
+  </a>
+  <header class="awsm m-page-header lb-with-mobile-subrow" id="aws-page-header" role="banner">
+   <div class="m-nav" id="m-nav" role="navigation">
+    <div class="m-nav-header lb-clearfix" data-menu-url="https://s0.awsstatic.com/ja_JP/nav/v3/panel-content/desktop/index.html">
+     <div class="m-nav-logo">
+      <div class="lb-bg-logo aws-amazon_web_services_smile-header-desktop-en">
+       <a href="https://aws.amazon.com/jp/?nc2=h_lg">
+        <span>
+         アマゾン ウェブ サービスのホームページに戻るには、ここをクリック
+        </span>
+       </a>
+      </div>
+     </div>
+     <nav aria-label="二次的なナビゲーション" class="m-nav-secondary-links" style="min-width: 620px">
+      <a href="/jp/contact-us/?nc2=h_header">
+       お問い合わせ
+      </a>
+      <a aria-controls="popover-support-selector" aria-expanded="false" aria-haspopup="true" aria-label="Explore support options" class="lb-txt-none lb-tiny-iblock lb-txt-13 lb-txt lb-has-trigger-indicator" data-lb-popover-trigger="popover-support-selector" data-mbox-ignore="true" href="#" id="popover-popover-support-selector-trigger" role="button">
+       サポート
+       <i class="icon-caret-down lb-trigger-mount">
+       </i>
+      </a>
+      <a aria-controls="popover-language-selector" aria-expanded="false" aria-haspopup="true" aria-label="サイトの言語を設定" class="lb-tiny-iblock lb-txt lb-has-trigger-indicator" data-language="jp" data-lb-popover-trigger="popover-language-selector" href="#" id="m-nav-language-selector" role="button">
+       日本語
+       <i class="icon-caret-down lb-trigger-mount">
+       </i>
+      </a>
+      <a aria-controls="popover-my-account" aria-expanded="false" aria-haspopup="true" aria-label="アカウントオプションにアクセス" class="lb-tiny-iblock lb-txt lb-has-trigger-indicator" data-lb-popover-trigger="popover-my-account" href="#" role="button">
+       アカウント
+       <i class="icon-caret-down lb-trigger-mount">
+       </i>
+      </a>
+      <div class="m-nav-cta-btn">
+       <div class="lb-mbox js-mbox" data-lb-comp="mbox" data-lb-comp-ignore="true" data-mbox="en_header_nav_cta">
+        <div class="lb-data-attr-wrapper data-attr-wrapper" data-da-so-category="monitoring" data-da-so-language="jp" data-da-so-name="nav-buttons" data-da-so-type="viewport" data-da-so-url="nav" data-da-so-version="sign-up-sign-in-all" data-da-type="so">
+         <div class="data-attr-wrapper lb-tiny-iblock lb-none-pad lb-box" data-da-so-category="monitoring" data-da-so-language="jp" data-da-so-name="nav-buttons" data-da-so-type="viewport" data-da-so-url="all" data-da-so-version="prospect-sign-in" data-da-type="so">
+          <a class="lb-txt-none lb-tiny-iblock lb-txt-13 lb-txt" href="https://console.aws.amazon.com/console/home?nc2=h_ct&amp;src=header-signin" style="padding-top:8px; padding-right:13px;">
+           サインイン
+          </a>
+         </div>
+         <div class="data-attr-wrapper lb-tiny-iblock lb-none-v-margin lb-btn" data-da-so-category="monitoring" data-da-so-language="jp" data-da-so-name="nav-buttons" data-da-so-type="viewport" data-da-so-url="all" data-da-so-version="prospect-signup" data-da-type="so">
+          <a class="lb-btn-p-primary" data-trk-params='{"trkOverrideWithQs":true}' href="https://portal.aws.amazon.com/gp/aws/developer/registration/index.html?nc2=h_ct&amp;src=header_signup" role="button">
+           <span>
+            AWS アカウントを作成
+           </span>
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+     </nav>
+     <div class="m-nav-primary-group">
+      <nav aria-label="主なナビゲーション" class="m-nav-primary-links">
+       <i aria-hidden="true" class="m-nav-angle-left-icon">
+       </i>
+       <ul>
+        <li aria-expanded="false">
+         <span>
+          <a data-panel="m-nav-panel-products" href="/jp/products/?nc2=h_ql_prod">
+           製品
+          </a>
+         </span>
+        </li>
+        <li aria-expanded="false">
+         <span>
+          <a data-panel="m-nav-panel-solutions" href="/jp/solutions/?nc2=h_ql_sol">
+           ソリューション
+          </a>
+         </span>
+        </li>
+        <li aria-expanded="false">
+         <span>
+          <a data-panel="m-nav-panel-pricing" href="/jp/pricing/?nc2=h_ql_pr">
+           料金
+          </a>
+         </span>
+        </li>
+        <li aria-expanded="false">
+         <span>
+          <a data-panel="m-nav-panel-documentation" href="https://aws.amazon.com/documentation-overview/?nc2=h_ql_doc_do">
+           ドキュメント
+          </a>
+         </span>
+        </li>
+        <li aria-expanded="false">
+         <span>
+          <a data-panel="m-nav-panel-learn" href="/jp/getting-started/?nc2=h_ql_le">
+           学ぶ
+          </a>
+         </span>
+        </li>
+        <li aria-expanded="false">
+         <span>
+          <a data-panel="m-nav-panel-partner" href="/jp/partners/?nc2=h_ql_pn">
+           パートナーネットワーク
+          </a>
+         </span>
+        </li>
+        <li aria-expanded="false">
+         <span>
+          <a data-panel="m-nav-panel-marketplace" href="https://aws.amazon.com/marketplace/?nc2=h_ql_mp">
+           AWS Marketplace
+          </a>
+         </span>
+        </li>
+        <li aria-expanded="false">
+         <span>
+          <a data-panel="m-nav-panel-customer" href="/jp/customer-enablement/?nc2=h_ql_ce">
+           カスタマーサポート
+          </a>
+         </span>
+        </li>
+        <li aria-expanded="false">
+         <span>
+          <a data-panel="m-nav-panel-events" href="/jp/events/?nc2=h_ql_ev">
+           イベント
+          </a>
+         </span>
+        </li>
+        <li aria-expanded="false">
+         <span>
+          <a data-panel="m-nav-panel-more" href="/jp/contact-us/?nc2=h_ql_exm">
+           さらに詳しく見る
+          </a>
+         </span>
+        </li>
+       </ul>
+       <div class="m-nav-icon-group">
+        <i aria-hidden="true" class="m-nav-angle-right-icon">
+        </i>
+        <i aria-expanded="false" aria-label="検索" class="m-nav-search-icon" role="button" tabindex="0">
+        </i>
+       </div>
+      </nav>
+      <div class="m-nav-search" id="m-nav-desktop-search">
+       <form action="https://aws.amazon.com/search/" role="search">
+        <div class="m-typeahead" data-directory-id="typeahead-suggestions" data-lb-comp="typeahead">
+         <input autocomplete="off" class="m-nav-search-field" dir="auto" name="searchQuery" placeholder="検索" spellcheck="false" type="text"/>
+        </div>
+       </form>
+       <i aria-label="閉じる" class="m-nav-close-icon" role="button">
+       </i>
+      </div>
+     </div>
+    </div>
+    <div aria-labelledby="popover-popover-language-selector-trigger" aria-modal="false" class="lb-popover lb-popover-aui lb-popover-tiny" data-action="hover" data-id="popover-language-selector" data-lb-comp="popover" data-position="top" id="popover-language-selector">
+     <a aria-label="閉じる" class="lb-popover-close" role="button" tabindex="0" title="閉じる">
+      <span class="lb-sr-only">
+       閉じる
+      </span>
+     </a>
+     <div class="lb-grid lb-row lb-row-max-large lb-snap">
+      <div class="lb-col lb-tiny-24 lb-mid-12">
+       <ul class="lb-txt-none lb-ul lb-list-style-none lb-tiny-ul-block">
+        <li data-language="ar" lang="ar-SA" translate="no">
+         <a href="https://aws.amazon.com/ar/?nc1=h_ls">
+          عربي
+         </a>
+        </li>
+        <li data-language="id" lang="id-ID" translate="no">
+         <a href="https://aws.amazon.com/id/?nc1=h_ls">
+          Bahasa Indonesia
+         </a>
+        </li>
+        <li data-language="de" lang="de-DE" translate="no">
+         <a href="https://aws.amazon.com/de/?nc1=h_ls">
+          Deutsch
+         </a>
+        </li>
+        <li data-language="en" lang="en-US" translate="no">
+         <a href="https://aws.amazon.com/?nc1=h_ls">
+          English
+         </a>
+        </li>
+        <li data-language="es" lang="es-ES" translate="no">
+         <a href="https://aws.amazon.com/es/?nc1=h_ls">
+          Español
+         </a>
+        </li>
+        <li data-language="fr" lang="fr-FR" translate="no">
+         <a href="https://aws.amazon.com/fr/?nc1=h_ls">
+          Français
+         </a>
+        </li>
+        <li data-language="it" lang="it-IT" translate="no">
+         <a href="https://aws.amazon.com/it/?nc1=h_ls">
+          Italiano
+         </a>
+        </li>
+        <li data-language="pt" lang="pt-BR" translate="no">
+         <a href="https://aws.amazon.com/pt/?nc1=h_ls">
+          Português
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="lb-col lb-tiny-24 lb-mid-12">
+       <ul class="lb-txt-none lb-ul lb-list-style-none lb-tiny-ul-block">
+        <li data-language="vi" lang="vi-VN" translate="no">
+         <a href="https://aws.amazon.com/vi/?nc1=f_ls">
+          Tiếng Việt
+         </a>
+        </li>
+        <li data-language="tr" lang="tr-TR" translate="no">
+         <a href="https://aws.amazon.com/tr/?nc1=h_ls">
+          Türkçe
+         </a>
+        </li>
+        <li data-language="ru" lang="ru-RU" translate="no">
+         <a href="https://aws.amazon.com/ru/?nc1=h_ls">
+          Ρусский
+         </a>
+        </li>
+        <li data-language="th" lang="th-TH" translate="no">
+         <a href="https://aws.amazon.com/th/?nc1=f_ls">
+          ไทย
+         </a>
+        </li>
+        <li data-language="jp" lang="ja-JP" translate="no">
+         <a href="https://aws.amazon.com/jp/?nc1=h_ls">
+          日本語
+         </a>
+        </li>
+        <li data-language="ko" lang="ko-KR" translate="no">
+         <a href="https://aws.amazon.com/ko/?nc1=h_ls">
+          한국어
+         </a>
+        </li>
+        <li data-language="cn" lang="zh-CN" translate="no">
+         <a href="https://aws.amazon.com/cn/?nc1=h_ls">
+          中文 (简体)
+         </a>
+        </li>
+        <li data-language="tw" lang="zh-TW" translate="no">
+         <a href="https://aws.amazon.com/tw/?nc1=h_ls">
+          中文 (繁體)
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div aria-labelledby="popover-popover-my-account-trigger" aria-modal="false" class="lb-popover lb-popover-aui lb-popover-tiny" data-action="hover" data-id="popover-my-account" data-lb-comp="popover" data-position="top" id="popover-my-account">
+     <a aria-label="閉じる" class="lb-popover-close" role="button" tabindex="0" title="閉じる">
+      <span class="lb-sr-only">
+       閉じる
+      </span>
+     </a>
+     <ul class="lb-txt-none lb-ul lb-list-style-none lb-tiny-ul-block">
+      <li class="m-no-auth" data-myaws-auth-only="true">
+       <a href="/jp/profile/?nc2=h_m_mc">
+        自分のプロフィール
+       </a>
+      </li>
+      <li class="m-no-auth" data-myaws-auth-only="true">
+       <a href="https://auth.aws.amazon.com/sign-out/?nc2=h_m_mc">
+        AWS Builder ID からサインアウト
+       </a>
+      </li>
+      <li>
+       <a href="https://console.aws.amazon.com/?nc2=h_m_mc">
+        AWS マネジメントコンソール
+       </a>
+      </li>
+      <li>
+       <a href="https://console.aws.amazon.com/billing/home#/account?nc2=h_m_ma">
+        アカウント設定
+       </a>
+      </li>
+      <li>
+       <a href="https://console.aws.amazon.com/billing/home?nc2=h_m_bc">
+        請求情報とコスト管理
+       </a>
+      </li>
+      <li>
+       <a href="https://console.aws.amazon.com/iam/home?nc2=h_m_sc#security_credential">
+        セキュリティ認証情報
+       </a>
+      </li>
+      <li>
+       <a href="https://phd.aws.amazon.com/?nc2=h_m_sc">
+        AWS Personal Health Dashboard
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div aria-labelledby="popover-popover-support-selector-trigger" aria-modal="false" class="lb-popover lb-popover-aui lb-popover-tiny" data-action="hover" data-id="popover-support-selector" data-lb-comp="popover" data-position="top" id="popover-support-selector">
+     <a aria-label="閉じる" class="lb-popover-close" role="button" tabindex="0" title="閉じる">
+      <span class="lb-sr-only">
+       閉じる
+      </span>
+     </a>
+     <ul class="lb-txt-none lb-ul lb-list-style-none lb-tiny-ul-block">
+      <li>
+       <a href="https://console.aws.amazon.com/support/home/?nc2=h_ql_cu">
+        サポートセンター
+       </a>
+      </li>
+      <li>
+       <a href="https://iq.aws.amazon.com/?utm=mkt.nav">
+        エキスパートによるサポート
+       </a>
+      </li>
+      <li>
+       <a href="https://repost.aws/knowledge-center/?nc2=h_m_ma">
+        ナレッジセンター
+       </a>
+      </li>
+      <li>
+       <a href="/jp/premiumsupport/?nc2=h_m_bc">
+        AWS サポートの概要
+       </a>
+      </li>
+      <li>
+       <a href="https://repost.aws/">
+        AWS re:Post
+       </a>
+      </li>
+     </ul>
+    </div>
+    <script data-hbs-context='{"pricingText":"料金","documentationText":"ドキュメント","calculatorText":"計算ツール"}' data-hbs-template-path="nav-desktop/suggestions" type="text/x-handlebars-template">
+    </script>
+    <script data-hbs-context='{"productsText":"製品"}' data-hbs-template-path="nav-desktop/products-head" type="text/x-handlebars-template">
+    </script>
+    <script data-hbs-context='{"relatedPagesText":"関連ページ"}' data-hbs-template-path="nav-desktop/keypages-head" type="text/x-handlebars-template">
+    </script>
+    <script data-hbs-context='{"tutorialsText":"チュートリアル"}' data-hbs-template-path="nav-desktop/tutorials-head" type="text/x-handlebars-template">
+    </script>
+    <script data-hbs-context='{"blogsText":"ブログ"}' data-hbs-template-path="nav-desktop/blogs-head" type="text/x-handlebars-template">
+    </script>
+    <script data-hbs-context='{"resultsText":"次に対するその他の検索結果を表示"}' data-hbs-template-path="nav-desktop/see-all" type="text/x-handlebars-template">
+    </script>
+   </div>
+   <div class="m-nav-mobile" id="m-nav-mobile">
+    <div class="m-nav-mobile-header m-nav-mobile-with-sub-row" data-menu-url="https://s0.awsstatic.com/ja_JP/nav/v3/panel-content/mobile/index.html" id="m-nav-mobile-header">
+     <div class="lb-bg-logo aws-amazon_web_services_smile-header-mobile-en">
+      <a href="https://aws.amazon.com/jp/?nc2=h_lg">
+       <span>
+        アマゾン ウェブ サービスのホームページに戻るには、ここをクリック
+       </span>
+      </a>
+     </div>
+     <div class="m-nav-mobile-button-group">
+      <i aria-expanded="false" aria-label="検索" class="m-nav-mobile-button icon-search" role="button" tabindex="0">
+      </i>
+      <i aria-expanded="false" aria-label="メニュー" class="m-nav-mobile-button icon-reorder" role="button" tabindex="0">
+      </i>
+     </div>
+     <div class="m-nav-mobile-sub-row" id="m-nav-mobile-sub-row">
+      <div class="lb-btn">
+       <a class="lb-btn-p-primary" href="https://portal.aws.amazon.com/gp/aws/developer/registration/index.html?nc2=h_mobile" role="button">
+        <span>
+         無料で開始する
+        </span>
+       </a>
+      </div>
+      <div class="lb-btn">
+       <a class="lb-btn-p" href="https://aws.amazon.com/contact-us/?nc2=h_mobile" role="button">
+        <span>
+         お問い合わせ
+        </span>
+       </a>
+      </div>
+     </div>
+    </div>
+    <div class="m-nav-mobile-search" id="m-nav-mobile-search">
+     <form action="https://aws.amazon.com/search" role="search">
+      <div class="m-typeahead">
+       <input autocomplete="off" class="m-nav-search-field" dir="auto" name="searchQuery" placeholder="検索" spellcheck="false" type="text"/>
+      </div>
+     </form>
+    </div>
+    <nav id="m-nav-trimdown" role="navigation">
+     <ul class="m-nav-mobile-menu-group">
+      <li>
+       <a href="/jp/products/?nc2=h_mo">
+        製品
+       </a>
+      </li>
+      <li>
+       <a href="/jp/solutions/?nc2=h_mo">
+        ソリューション
+       </a>
+      </li>
+      <li>
+       <a href="/jp/pricing/?nc2=h_mo">
+        料金
+       </a>
+      </li>
+      <li>
+       <a href="/jp/what-is-aws/?nc2=h_mo">
+        AWS 入門
+       </a>
+      </li>
+      <li>
+       <a href="/jp/getting-started/?nc2=h_mo">
+        開始方法
+       </a>
+      </li>
+      <li>
+       <a href="https://aws.amazon.com/documentation-overview/?nc2=h_mo">
+        ドキュメント
+       </a>
+      </li>
+      <li>
+       <a href="/jp/training/?nc2=h_mo">
+        トレーニングと認定
+       </a>
+      </li>
+      <li>
+       <a href="/jp/developer/?nc2=h_mo">
+        開発者センター
+       </a>
+      </li>
+      <li>
+       <a href="/jp/solutions/case-studies/?nc2=h_mo">
+        お客様の導入事例
+       </a>
+      </li>
+      <li>
+       <a href="/jp/partners/?nc2=h_mo">
+        パートナー
+       </a>
+      </li>
+      <li>
+       <a href="https://aws.amazon.com/marketplace/?nc2=h_mo">
+        AWS Marketplace
+       </a>
+      </li>
+      <li>
+       <a href="https://console.aws.amazon.com/support/home?nc2=h_ql_cu">
+        サポート
+       </a>
+      </li>
+      <li>
+       <a href="https://repost.aws/">
+        AWS re:Post
+       </a>
+      </li>
+      <li>
+       <a href="https://console.aws.amazon.com/console/home">
+        コンソールにログイン
+       </a>
+      </li>
+      <li>
+       <a href="/jp/console/mobile/">
+        モバイルアプリをダウンロード
+       </a>
+      </li>
+     </ul>
+    </nav>
+   </div>
+   <div class="lb-sticky-subnav" data-lb-comp="sticky-subnav" data-lb-page-path="/jp/events/">
+    <div class="lb-row lb-row-max-large lb-snap">
+     <div class="lb-tiny-24 lb-sticky-subnav-content">
+      <div class="lb-sticky-subnav-title">
+      </div>
+      <div class="lb-sticky-subnav-links">
+       <a class="lb-txt-none lb-txt" href="#search">
+        イベント検索
+       </a>
+       <a class="lb-txt-none lb-txt" href="/jp/aws-jp-introduction/" rel="noopener noreferrer" target="_blank">
+        クラウドサービス活用資料集
+       </a>
+       <a class="lb-txt-none lb-txt" href="https://aws-startup-lofts.com/apj/?siteLang=jp" rel="noopener noreferrer" target="_blank">
+        AWS Loft Tokyo
+       </a>
+       <a class="lb-txt-none lb-txt" href="/jp/training/" rel="noopener noreferrer" target="_blank">
+        AWS トレーニング
+       </a>
+       <a class="lb-txt-none lb-txt" href="https://pages.awscloud.com/JAPAN-event-SP-Weekly-Sales-Consulting-Seminar-2021-reg-event.html" rel="noopener noreferrer" target="_blank">
+        個別相談会
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+  </header>
+  <div class="lb-none-pad lb-page-content lb-page-with-sticky-subnav" data-page-alert-target="true" id="aws-page-content">
+   <main id="aws-page-content-main" role="main" tabindex="-1">
+    <div class="lb-none-v-margin lb-grid" style="background-color:#001F3F;">
+     <div class="lb-row lb-row-max-large lb-snap">
+      <div class="lb-col lb-tiny-24 lb-mid-24">
+       <h1 class="lb-txt-none lb-txt-white lb-h1 lb-title" id="AWS_.E3.82.A4.E3.83.99.E3.83.B3.E3.83.88.E3.82.B9.E3.82.B1.E3.82.B8.E3.83.A5.E3.83.BC.E3.83.AB" style="margin-top:40px; margin-bottom:20px;">
+        AWS イベントスケジュール
+       </h1>
+       <div class="lb-txt-white lb-txt-16 lb-txt-lead lb-rtxt">
+        <p>
+         アマゾン ウェブ サービスの最新情報・事例、利用方法等の情報が取得できる、様々なイベントの最新スケジュールをご紹介しています。ぜひお気軽にご参加ください。
+        </p>
+       </div>
+       <div class="lb-tiny-iblock lb-btn" style="margin-bottom:50px;">
+        <a class="lb-btn-p-primary" href="https://pages.awscloud.com/JAPAN-field-LN-aws-event-info-2021-reg.html" rel="noopener noreferrer" role="button" target="_blank">
+         <span>
+          イベント情報メールに登録する »
+         </span>
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="lb-mid-small-pad lb-none-v-margin lb-box lb-has-link" style="background-color:#0074D9;">
+     <a href="https://aws.amazon.com/jp/events/aws-event-resource/" rel="noopener noreferrer" target="_blank">
+      <div class="lb-txt-16 lb-none-v-margin lb-rtxt" style="color:#ffffff;">
+       <p style="text-align: center;">
+        <b>
+         イベントのアーカイブ「クラウドサービス活用資料集」はこちら
+        </b>
+        <br/>
+       </p>
+      </div>
+     </a>
+    </div>
+    <div class="lb-carousel-wrapper dark">
+     <div class="lb-carousel lb-carousel-arrows-outside" data-autoplay="true" data-autoplay-hover-pause="true" data-autoplay-timeout="5000" data-drag-end-speed="280" data-items="1" data-lb-comp="carousel" data-loop="true" data-next-text="Next Slide" data-prev-text="Previous Slide" data-slide-text="スライド" data-smart-speed="800" data-theme="dark" data-withid="aws-element-6921a9be-e7b0-40e8-af27-d561bb89ed94" id="aws-element-6921a9be-e7b0-40e8-af27-d561bb89ed94">
+      <div class="lb-bg-left-bottom-cover lb-mid-small-pad lb-carousel-item-inner-wrapper" style="padding-left:0px; background-image:url('https://d1.awsstatic.com/Digital Marketing/sitemerch/banners/awsome-day-online-2023-hero-bg.12c21d7558977f6f5c484f588d89f63f2c6c0ed8.jpg'); padding-right:0px;">
+       <div class="lb-carousel-item-inner">
+        <div class="lb-mid-small-pad lb-none-v-margin lb-grid" style="padding-left:0px; padding-right:0px;">
+         <div class="lb-row lb-row-max-large lb-snap">
+          <div class="lb-col lb-tiny-24 lb-mid-4">
+          </div>
+          <div class="lb-col lb-tiny-24 lb-mid-16">
+           <figure class="lb-img">
+            <a href="https://aws.amazon.com/jp/events/awsome-day/awsome-day-online/?trkCampaign=awsome-day-online&amp;trk=30497a11-a415-4355-bd27-53c77ec81c00&amp;sc_channel=el" rel="noopener noreferrer" target="_blank">
+             <img alt="AWS Innovate " class="cq-dd-image" src="https://d1.awsstatic.com/Digital%20Marketing/House/Hero/AWSome_Day_2021_SiteMerch_Hero%20Logo_Event_480x100.750094ee37c773434929daab0e223615be66d358.png" title=""/>
+            </a>
+           </figure>
+           <div class="lb-txt-white lb-txt-40 lb-rtxt">
+            <p style="text-align: center;">
+             <b>
+              【 登 録 開 始 】
+             </b>
+            </p>
+           </div>
+           <div class="lb-txt-white lb-txt-28 lb-rtxt">
+            <p style="text-align: center;">
+             <b>
+              AWS をイチから学べる
+             </b>
+            </p>
+            <p style="text-align: center;">
+             <b>
+              3 時間の初心者向けオンラインイベント
+              <br/>
+             </b>
+            </p>
+           </div>
+           <div class="lb-txt-white lb-txt-18 lb-rtxt">
+            <p style="text-align: center;">
+             <b>
+              2023 年 11 月 16 日（木）
+              <br/>
+              タイミング 1: 10:00 ~ | タイミング 2: 14:00 ~
+             </b>
+            </p>
+           </div>
+           <div class="lb-large-pad lb-none-v-margin lb-box" style="padding-top:0px; padding-left:0px; padding-bottom:0px; padding-right:0px;">
+            <div class="lb-tiny-align-center">
+             <div>
+              <div class="lb-tiny-iblock lb-tiny-v-margin lb-btn">
+               <a class="lb-btn-p-primary" data-trk-params='{"trkCampaign":"devday-2023-japan","trkOverrideWithQs":true}' href="https://aws.amazon.com/jp/events/awsome-day/awsome-day-online/?trkCampaign=awsome-day-online&amp;trk=30497a11-a415-4355-bd27-53c77ec81c00&amp;sc_channel=el" rel="noopener noreferrer" role="button" target="_blank">
+                <span>
+                 詳細・登録はこちら
+                </span>
+               </a>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="lb-col lb-tiny-24 lb-mid-4">
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="lb-bg-left-bottom-cover lb-mid-small-pad lb-carousel-item-inner-wrapper" style="padding-left:0px; background-image:url('https://d1.awsstatic.com/webinars/jp/pdf/services/AWS_GCSG2023_Innovate_LandingPage_ModernApps_HeroBackground_1400x500_v2.ee3f7c1177aa87d6fd710aca65dcf76c1c8a9dec.png'); padding-right:0px;">
+       <div class="lb-carousel-item-inner">
+        <div class="lb-mid-small-pad lb-none-v-margin lb-grid" style="padding-left:0px; padding-right:0px;">
+         <div class="lb-row lb-row-max-large lb-snap">
+          <div class="lb-col lb-tiny-24 lb-mid-4">
+          </div>
+          <div class="lb-col lb-tiny-24 lb-mid-16">
+           <figure class="lb-img">
+            <a href="https://aws.amazon.com/jp/events/aws-innovate/apj/modern-apps/?trkCampaign=innovate-mad-apj&amp;trk=b86fe49f-94f7-40fd-ae52-d22bdfc5110b&amp;sc_channel=el" rel="noopener noreferrer" target="_blank">
+             <img alt="AWS Innovate " class="cq-dd-image" src="https://d1.awsstatic.com/webinars/jp/pdf/services/MAD-logo-web-size-adjustment.5cfb133d39810451901556b73ba06c323f325c64.png" title=""/>
+            </a>
+           </figure>
+           <div class="lb-txt-white lb-txt-40 lb-rtxt">
+            <p style="text-align: center;">
+             <b>
+              【オンデマンド配信中】
+             </b>
+            </p>
+           </div>
+           <div class="lb-txt-white lb-txt-28 lb-rtxt">
+            <p style="text-align: center;">
+             <b>
+              AWS クラウドでの最新アプリ開発と
+              <br/>
+              インフラ運用方法を 4 時間で学ぶ
+              <br/>
+             </b>
+            </p>
+           </div>
+           <div class="lb-large-pad lb-none-v-margin lb-box" style="padding-top:0px; padding-left:0px; padding-bottom:0px; padding-right:0px;">
+            <div class="lb-tiny-align-center">
+             <div>
+              <div class="lb-tiny-iblock lb-tiny-v-margin lb-btn">
+               <a class="lb-btn-p-primary" data-trk-params='{"trkCampaign":"devday-2023-japan","trkOverrideWithQs":true}' href="https://aws.amazon.com/jp/events/aws-innovate/apj/modern-apps/?trkCampaign=innovate-mad-apj&amp;trk=b86fe49f-94f7-40fd-ae52-d22bdfc5110b&amp;sc_channel=el" rel="noopener noreferrer" role="button" target="_blank">
+                <span>
+                 詳細・登録はこちら
+                </span>
+               </a>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="lb-col lb-tiny-24 lb-mid-4">
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div>
+      <div class="lb-carousel-controls">
+       <div class="lb-hidden-item lb-item">
+        <button class="lb-placeholder">
+         Play
+        </button>
+        <button class="lb-placeholder">
+         Prev
+        </button>
+        <button class="lb-placeholder">
+         Next
+        </button>
+       </div>
+       <div class="lb-dot-container lb-item aws-element-6921a9be-e7b0-40e8-af27-d561bb89ed94">
+       </div>
+       <button class="lb-rotation-button is-control">
+        <span class="lb-pause-container">
+         <span aria-hidden="true" class="lb-icon lb-pause-icon">
+          <svg fill="none" height="16" viewbox="0 0 11 16" width="11" xmlns="http://www.w3.org/2000/svg">
+           <line stroke-width="3" x1="9.5" x2="9.5" y1="6.55671e-08" y2="16">
+           </line>
+           <line stroke-width="3" x1="1.5" x2="1.5" y1="6.55671e-08" y2="16">
+           </line>
+          </svg>
+         </span>
+         <span class="lb-sr-only">
+          Pause slide rotation
+         </span>
+        </span>
+        <span class="lb-resume-container">
+         <span aria-hidden="true" class="lb-icon play-icon">
+          <svg fill="none" viewbox="0 0 18 20" xmlns="http://www.w3.org/2000/svg">
+           <path d="M15.6296 9.14268C16.2766 9.53114 16.2766 10.4689 15.6296 10.8573L2.76478 18.5819C2.09826 18.9821 1.25 18.502 1.25 17.7246L1.25 2.2754C1.25 1.49796 2.09826 1.01786 2.76478 1.41807L15.6296 9.14268Z" stroke-linejoin="round" stroke-width="2">
+           </path>
+          </svg>
+         </span>
+         <span class="lb-sr-only">
+          Resume slide rotation
+         </span>
+        </span>
+       </button>
+       <div class="aws-element-6921a9be-e7b0-40e8-af27-d561bb89ed94 lb-nav-container lb-item">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="lb-border-p lb-border-top lb-none-v-margin lb-grid">
+     <div class="lb-row lb-row-max-large lb-snap">
+      <div class="lb-col lb-tiny-24 lb-mid-24">
+       <div id="search">
+       </div>
+       <h2 class="lb-tiny-align-center lb-txt-none lb-txt-30 lb-large-v-margin lb-h2 lb-title" id=".E3.81.8A.E3.81.99.E3.81.99.E3.82.81.E3.81.AE.E3.82.A4.E3.83.99.E3.83.B3.E3.83.88.E3.82.92.E3.81.94.E7.B4.B9.E4.BB.8B">
+        おすすめのイベントをご紹介
+       </h2>
+       <div class="lb-grid lb-row lb-row-max-large lb-snap">
+        <div class="lb-col lb-tiny-24 lb-mid-24">
+         <div class="lb-directory-cards aws-directories-items m-cards-dark" data-api="search" data-cards-id="events-japan-cards-feature" data-directory-id="events-japan" data-error-message="問題が発生しました。通知を受信し、問題解決のための作業をしています。" data-expose-query-params="true" data-last-page-num="false" data-lb-comp="cards" data-pagination-error-message="Pagination limit reached. No items returned on the page." data-size="4" data-sort_order="desc" data-tag='["events-japan#event-category#aws", "events-japan#event-category#feature", "events-japan#event-date#this-week"]' data-theme-config='{"themeName":"events-grid","themeVersion":"1.0.0","formatVersion":"1.0.0","themeJS":"master-card","skeletonType":"grid","hasShare":true,"hasAddToCalendar":true,"mappings":{"requiredFields":{"category":"category","contentType":"contentType","headline":"headline","headlineUrl":"headlineUrl","description":"description","startDate":"startDate"},"optionalFields":{"subHeadline":"","expertise":"expertise","expertiseTooltip":"","imageAltText":"","imageSrcUrl":"","videoSrcUrl":"","featureFlag":"","endDate":"","duration":"duration","eventSubinfo":"eventSubinfo","outlookCalUrl":"","googleCalUrl":"","appleCalUrl":"","registerUrl":"","enableShare":"enableShare","trkOutputParam":"trkOutputParam","trkCampaign":"trkCampaign","trkOverrideWithQs":"trkOverrideWithQs"},"dialogFields":{"shareLinksLabel":"以下で共有する","facebookLabel":"Facebook","twitterLabel":"Twitter","linkedInLabel":"LinkedIn","copyUrlLabel":"リンクのコピー","addToLabel":"カレンダーに追加","registerLabel":"登録","outlookCalLabel":"Outlook","googleCalLabel":"Google","appleCalLabel":"Apple"}}}' data-theme-js="libra-cardsui/themes/master-card" id="aws-element-48332853-e0b1-41e5-91ca-e24ad9d53bf1">
+          <div class="m-cards-skl m-cards-skl-grid">
+           <div class="lb-xb-grid lb-row-max-large lb-snap lb-tiny-xb-1 lb-small-xb-2 lb-large-xb-4 lb-xb-equal-height lb-vgutter-collapse">
+            <div class="lb-xbcol">
+             <div class="m-cards-skl-dark">
+             </div>
+            </div>
+            <div class="lb-xbcol">
+             <div class="m-cards-skl-dark">
+             </div>
+            </div>
+            <div class="lb-xbcol">
+             <div class="m-cards-skl-dark">
+             </div>
+            </div>
+            <div class="lb-xbcol">
+             <div class="m-cards-skl-dark">
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="m-cards-header">
+           <div class="lb-sr-only m-card-numbers-a11y" data-label-no-results="結果が見つかりません" data-label-showing-results="Showing results" data-label-total-results="Total results" role="status">
+           </div>
+           <span class="m-card-sort-container">
+            <div class="lb-form-item lb-label-left m-disabled m-sort m-sort-light" data-lb-comp="sort" data-sort-scope="events-japan" data-ui-scope="events-japan-cards-feature">
+             <label>
+              並び替え:
+             </label>
+             <div class="lb-dropdown lb-dropdown-p">
+              <div class="lb-dropdown-label" tabindex="0">
+               <span>
+                開始日時順に表示
+               </span>
+              </div>
+              <input class="lb-dropdown-selected" type="hidden"/>
+              <ul class="lb-dropdown-list" role="listbox">
+               <li class="lb-dropdown-item" data-sort-by="item.additionalFields.sortDateTime" data-sort-order="asc" data-value="item.additionalFields.sortDateTime-asc" role="option" tabindex="0">
+                <span>
+                 開始日時順に表示
+                </span>
+               </li>
+              </ul>
+             </div>
+            </div>
+           </span>
+          </div>
+          <div class="m-cards-no-items">
+           <div class="lb-txt-none lb-txt">
+            選択いただいた項目での検索結果はありません。
+           </div>
+          </div>
+          <script data-hbs-context='{"componentInstanceId":"aws-element-48332853-e0b1-41e5-91ca-e24ad9d53bf1"}' data-hbs-template-path="events-grid/1.0.0/events-grid" type="text/x-handlebars-template">
+          </script>
+          <div class="aws-directories-container-wrapper">
+           <section class="m-card-events-grid lb-row lb-snap lb-row-max-large">
+            <ul class="aws-directories-container lb-xb-grid lb-row-max-large lb-snap lb-tiny-xb-1 lb-small-xb-2 lb-large-xb-4 lb-xb-equal-height lb-vgutter-collapse">
+            </ul>
+           </section>
+          </div>
+          <div class="m-cards-page-numbers">
+           <a aria-label="前のページ" class="m-icon-angle-left">
+           </a>
+           <a class="m-first-page m-page-link">
+            1
+           </a>
+           <span class="m-ellipses-before">
+            …
+           </span>
+           <div class="m-page-num-group">
+           </div>
+           <span class="m-ellipses-after">
+            …
+           </span>
+           <a class="m-last-page m-page-link">
+           </a>
+           <a aria-label="次のページ" class="m-icon-angle-right">
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="lb-border-p lb-border-top lb-none-v-margin lb-grid">
+     <div class="lb-row lb-row-max-large lb-snap">
+      <div class="lb-col lb-tiny-24 lb-mid-24">
+       <div id="search">
+       </div>
+       <h2 class="lb-tiny-align-center lb-txt-none lb-txt-squid lb-txt-30 lb-large-v-margin lb-h2 lb-title" id="AWS_.E4.B8.BB.E5.82.AC.E3.82.A4.E3.83.99.E3.83.B3.E3.83.88">
+        AWS 主催イベント
+       </h2>
+       <div class="lb-grid lb-row lb-row-max-large lb-snap">
+        <div class="lb-col lb-tiny-24 lb-mid-6">
+         <div class="lb-filter-reset-container">
+          <div class="lb-filter-reset lb-filter-reset-hide" data-lb-comp="filter-reset" data-reset-option="clearAll" data-ui-scope="events-japan-cards">
+           <a class="lb-filter-reset-link" role="button" tabindex="0">
+            <div class="lb-txt">
+            </div>
+           </a>
+          </div>
+         </div>
+         <div class="lb-filter-container lb-filter-light">
+          <button aria-controls="aws-element-1833a4ec-ef5d-447d-86f2-643e654479ef-modal" class="lb-filter-btn lb-btn-p-primary" title="フィルタ">
+           <span>
+            フィルタ
+           </span>
+          </button>
+          <div aria-label="フィルタ" aria-modal="true" class="lb-filter-mobile-wrapper" id="aws-element-1833a4ec-ef5d-447d-86f2-643e654479ef-modal" role="dialog">
+           <div class="lb-filter-modal-title">
+            <h2>
+             フィルタ
+            </h2>
+            <button class="lb-filter-modal-close" title="閉じる">
+             <span class="lb-sr-only">
+              閉じる
+             </span>
+            </button>
+            <button class="lb-filter-apply lb-btn-p-primary lb-active" title="Apply Filters">
+             <span>
+              Apply Filters
+             </span>
+            </button>
+           </div>
+           <div class="lb-filter-comp-wrapper">
+           </div>
+          </div>
+          <div class="lb-filter-checkbox lb-expanded lb-filter-hide" data-filter-data='{"metaData":{"formatVersion":"1.0"},"filterScope":"GLOBAL","filterName":"event-type","filterOperator":"or","uiScope":"events-japan-cards","filters":[{"label":"タイプ","value":"event-type","icon":"","isDefault":false,"type":"tagNamespace","children":[{"label":"ライブ配信","value":"virtual","icon":"","isDefault":false,"type":"tag"},{"label":"オンデマンド配信","value":"on-demand","icon":"","isDefault":false,"type":"tag"}]}],"theme":"onLightBackground"}' data-filter-scope="GLOBAL" data-lb-comp="checkbox-filter" data-ui-scope="events-japan-cards" id="aws-element-1833a4ec-ef5d-447d-86f2-643e654479ef">
+           <script data-hbs-template-path="checkbox" type="text/x-handlebars-template">
+           </script>
+           <div class="lb-filter">
+           </div>
+          </div>
+         </div>
+         <div class="lb-filter-container lb-filter-light">
+          <button aria-controls="aws-element-b3a8038a-7152-4932-aba0-4d7f26b189f1-modal" class="lb-filter-btn lb-btn-p-primary" title="フィルタ">
+           <span>
+            フィルタ
+           </span>
+          </button>
+          <div aria-label="フィルタ" aria-modal="true" class="lb-filter-mobile-wrapper" id="aws-element-b3a8038a-7152-4932-aba0-4d7f26b189f1-modal" role="dialog">
+           <div class="lb-filter-modal-title">
+            <h2>
+             フィルタ
+            </h2>
+            <button class="lb-filter-modal-close" title="閉じる">
+             <span class="lb-sr-only">
+              閉じる
+             </span>
+            </button>
+            <button class="lb-filter-apply lb-btn-p-primary lb-active" title="Apply Filters">
+             <span>
+              Apply Filters
+             </span>
+            </button>
+           </div>
+           <div class="lb-filter-comp-wrapper">
+           </div>
+          </div>
+          <div class="lb-filter-checkbox lb-expanded lb-filter-hide" data-filter-data='{"metaData":{"formatVersion":"1.0"},"filterScope":"events-japan","filterName":"event-category","filterOperator":"or","uiScope":"events-japan-cards","filters":[{"label":"カテゴリー","value":"event-category","icon":"","isDefault":false,"type":"tagNamespace","children":[{"label":"大規模イベント","value":"conference","icon":"","isDefault":false,"type":"tag"},{"label":"今週・来週開催","value":"feature","icon":"","isDefault":false,"type":"tag"},{"label":"初心者向け","value":"beginner","icon":"","isDefault":false,"type":"tag"},{"label":"ビジネスユーザー向け","value":"business","icon":"","isDefault":false,"type":"tag"},{"label":"サービス別","value":"service","icon":"","isDefault":false,"type":"tag"},{"label":"ソリューション別","value":"solution","icon":"","isDefault":false,"type":"tag"},{"label":"業種・企業別","value":"industry","icon":"","isDefault":false,"type":"tag"},{"label":"ハンズオン","value":"handson","icon":"","isDefault":false,"type":"tag"}]}],"theme":"onLightBackground"}' data-filter-scope="events-japan" data-lb-comp="checkbox-filter" data-ui-scope="events-japan-cards" id="aws-element-b3a8038a-7152-4932-aba0-4d7f26b189f1">
+           <script data-hbs-template-path="checkbox" type="text/x-handlebars-template">
+           </script>
+           <div class="lb-filter">
+           </div>
+          </div>
+         </div>
+         <div class="lb-tiny-iblock lb-btn" style="margin-bottom:50px;">
+          <a class="lb-btn-p-primary" href="#apn" rel="noopener noreferrer" role="button" target="_blank">
+           <span>
+            パートナー主催イベントはこちら
+           </span>
+          </a>
+         </div>
+        </div>
+        <div class="lb-col lb-tiny-24 lb-mid-18">
+         <div class="m-directories-search" data-lb-comp="directories-search" data-search-scope="events-japan" data-ui-scope="events-japan-cards" role="search">
+          <input aria-label="検索" autocomplete="off" placeholder="Search" role="searchbox" type="text"/>
+          <span aria-label="Clear Searchbox" class="m-hidden" role="button" tabindex="0">
+          </span>
+         </div>
+         <div class="lb-directory-cards aws-directories-items m-cards-light" data-api="search" data-cards-id="events-japan-cards" data-directory-id="events-japan" data-error-message="問題が発生しました。通知を受信し、問題解決のための作業をしています。" data-expose-query-params="true" data-is-list="true" data-last-page-num="true" data-lb-comp="cards" data-pagination-error-message="Pagination limit reached. No items returned on the page." data-size="8" data-sort_order="desc" data-tag="events-japan#event-category#aws" data-theme-config='{"themeName":"events-list","themeVersion":"1.0.0","formatVersion":"1.0.0","themeJS":"master-card","skeletonType":"list","hasShare":true,"hasAddToCalendar":true,"isList":true,"mappings":{"requiredFields":{"category":"category","contentType":"contentType","headline":"headline","headlineUrl":"headlineUrl","description":"description","startDate":"startDate"},"optionalFields":{"subHeadline":"","expertise":"expertise","expertiseTooltip":"","imageAltText":"","imageSrcUrl":"","videoSrcUrl":"","featureFlag":"","endDate":"","duration":"duration","eventSubinfo":"eventSubinfo","outlookCalUrl":"","googleCalUrl":"","appleCalUrl":"","registerUrl":"","enableShare":"enableShare","trkOutputParam":"trkOutputParam","trkCampaign":"trkCampaign","trkOverrideWithQs":"trkOverrideWithQs"},"dialogFields":{"shareLinksLabel":"以下で共有する","facebookLabel":"Facebook","twitterLabel":"Twitter","linkedInLabel":"LinkedIn","copyUrlLabel":"リンクのコピー","addToLabel":"カレンダーに追加","registerLabel":"登録","outlookCalLabel":"Outlook","googleCalLabel":"Google","appleCalLabel":"Apple"}}}' data-theme-js="libra-cardsui/themes/master-card" id="aws-element-4162c807-7ad0-4ce0-b374-473113c8f105">
+          <div class="m-cards-skl m-cards-skl-list">
+           <div class="lb-row lb-snap lb-row-max-large">
+            <div class="m-cards-skl-light">
+            </div>
+            <div class="m-cards-skl-light">
+            </div>
+            <div class="m-cards-skl-light">
+            </div>
+            <div class="m-cards-skl-light">
+            </div>
+            <div class="m-cards-skl-light">
+            </div>
+            <div class="m-cards-skl-light">
+            </div>
+            <div class="m-cards-skl-light">
+            </div>
+            <div class="m-cards-skl-light">
+            </div>
+           </div>
+          </div>
+          <div class="m-cards-header">
+           <span class="m-card-numbers">
+           </span>
+           <div class="lb-sr-only m-card-numbers-a11y" data-label-no-results="結果が見つかりません" data-label-showing-results="Showing results" data-label-total-results="Total results" role="status">
+           </div>
+           <span class="m-card-sort-container">
+            <div class="lb-form-item lb-label-left m-disabled m-sort m-sort-light" data-lb-comp="sort" data-sort-scope="events-japan" data-ui-scope="events-japan-cards">
+             <label>
+              並び替え:
+             </label>
+             <div class="lb-dropdown lb-dropdown-p">
+              <div class="lb-dropdown-label" tabindex="0">
+               <span>
+                開始日時順に表示
+               </span>
+              </div>
+              <input class="lb-dropdown-selected" type="hidden"/>
+              <ul class="lb-dropdown-list" role="listbox">
+               <li class="lb-dropdown-item" data-sort-by="item.additionalFields.sortDateTime" data-sort-order="asc" data-value="item.additionalFields.sortDateTime-asc" role="option" tabindex="0">
+                <span>
+                 開始日時順に表示
+                </span>
+               </li>
+              </ul>
+             </div>
+            </div>
+           </span>
+          </div>
+          <div class="m-cards-no-items">
+           <div class="lb-txt-none lb-txt">
+            選択いただいた項目での検索結果はありません。
+           </div>
+          </div>
+          <script data-hbs-context='{"componentInstanceId":"aws-element-4162c807-7ad0-4ce0-b374-473113c8f105"}' data-hbs-template-path="events-list/1.0.0/events-list" type="text/x-handlebars-template">
+          </script>
+          <div class="aws-directories-container-wrapper">
+           <section class="m-card-events-list lb-row lb-snap lb-row-max-large">
+            <ul class="aws-directories-container">
+            </ul>
+           </section>
+          </div>
+          <div class="m-cards-page-numbers">
+           <a aria-label="前のページ" class="m-icon-angle-left">
+           </a>
+           <a class="m-first-page m-page-link">
+            1
+           </a>
+           <span class="m-ellipses-before">
+            …
+           </span>
+           <div class="m-page-num-group">
+           </div>
+           <span class="m-ellipses-after">
+            …
+           </span>
+           <a class="m-last-page m-page-link">
+           </a>
+           <a aria-label="次のページ" class="m-icon-angle-right">
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="lb-border-p lb-border-top lb-none-v-margin lb-grid">
+     <div class="lb-row lb-row-max-large lb-snap">
+      <div class="lb-col lb-tiny-24 lb-mid-24">
+       <div id="apn">
+       </div>
+       <h2 class="lb-tiny-align-center lb-txt-none lb-txt-squid lb-txt-30 lb-large-v-margin lb-h2 lb-title" id=".E3.83.91.E3.83.BC.E3.83.88.E3.83.8A.E3.83.BC.E4.B8.BB.E5.82.AC.E3.82.A4.E3.83.99.E3.83.B3.E3.83.88">
+        パートナー主催イベント
+       </h2>
+       <div class="lb-grid lb-row lb-row-max-large lb-snap">
+        <div class="lb-col lb-tiny-24 lb-mid-6">
+         <div class="lb-filter-reset-container">
+          <div class="lb-filter-reset lb-filter-reset-hide" data-lb-comp="filter-reset" data-reset-option="clearAll" data-ui-scope="events-japan-cards2">
+           <a class="lb-filter-reset-link" role="button" tabindex="0">
+            <div class="lb-txt">
+            </div>
+           </a>
+          </div>
+         </div>
+         <div class="lb-filter-container lb-filter-light">
+          <button aria-controls="aws-element-5863fcdf-24b9-4cb1-bc44-0cedf1ecff76-modal" class="lb-filter-btn lb-btn-p-primary" title="フィルタ">
+           <span>
+            フィルタ
+           </span>
+          </button>
+          <div aria-label="フィルタ" aria-modal="true" class="lb-filter-mobile-wrapper" id="aws-element-5863fcdf-24b9-4cb1-bc44-0cedf1ecff76-modal" role="dialog">
+           <div class="lb-filter-modal-title">
+            <h2>
+             フィルタ
+            </h2>
+            <button class="lb-filter-modal-close" title="閉じる">
+             <span class="lb-sr-only">
+              閉じる
+             </span>
+            </button>
+            <button class="lb-filter-apply lb-btn-p-primary lb-active" title="Apply Filters">
+             <span>
+              Apply Filters
+             </span>
+            </button>
+           </div>
+           <div class="lb-filter-comp-wrapper">
+           </div>
+          </div>
+          <div class="lb-filter-checkbox lb-expanded lb-filter-hide" data-filter-data='{"metaData":{"formatVersion":"1.0"},"filterScope":"GLOBAL","filterName":"event-type","filterOperator":"or","uiScope":"events-japan-cards2","filters":[{"label":"タイプ","value":"event-type","icon":"","isDefault":false,"type":"tagNamespace","children":[{"label":"ライブ配信","value":"virtual","icon":"","isDefault":false,"type":"tag"},{"label":"オンデマンド配信","value":"on-demand","icon":"","isDefault":false,"type":"tag"}]}],"theme":"onLightBackground"}' data-filter-scope="GLOBAL" data-lb-comp="checkbox-filter" data-ui-scope="events-japan-cards2" id="aws-element-5863fcdf-24b9-4cb1-bc44-0cedf1ecff76">
+           <script data-hbs-template-path="checkbox" type="text/x-handlebars-template">
+           </script>
+           <div class="lb-filter">
+           </div>
+          </div>
+         </div>
+         <div class="lb-filter-container lb-filter-light">
+          <button aria-controls="aws-element-cba4d826-2558-4950-856c-69bc663546d8-modal" class="lb-filter-btn lb-btn-p-primary" title="フィルタ">
+           <span>
+            フィルタ
+           </span>
+          </button>
+          <div aria-label="フィルタ" aria-modal="true" class="lb-filter-mobile-wrapper" id="aws-element-cba4d826-2558-4950-856c-69bc663546d8-modal" role="dialog">
+           <div class="lb-filter-modal-title">
+            <h2>
+             フィルタ
+            </h2>
+            <button class="lb-filter-modal-close" title="閉じる">
+             <span class="lb-sr-only">
+              閉じる
+             </span>
+            </button>
+            <button class="lb-filter-apply lb-btn-p-primary lb-active" title="Apply Filters">
+             <span>
+              Apply Filters
+             </span>
+            </button>
+           </div>
+           <div class="lb-filter-comp-wrapper">
+           </div>
+          </div>
+          <div class="lb-filter-checkbox lb-expanded lb-filter-hide" data-filter-data='{"metaData":{"formatVersion":"1.0"},"filterScope":"events-japan","filterName":"event-category","filterOperator":"or","uiScope":"events-japan-cards2","filters":[{"label":"カテゴリー","value":"event-category","icon":"","isDefault":false,"type":"tagNamespace","children":[{"label":"大規模イベント","value":"conference","icon":"","isDefault":false,"type":"tag"},{"label":"今週・来週開催","value":"feature","icon":"","isDefault":false,"type":"tag"},{"label":"初心者向け","value":"beginner","icon":"","isDefault":false,"type":"tag"},{"label":"ビジネスユーザー向け","value":"business","icon":"","isDefault":false,"type":"tag"},{"label":"サービス別","value":"service","icon":"","isDefault":false,"type":"tag"},{"label":"ソリューション別","value":"solution","icon":"","isDefault":false,"type":"tag"},{"label":"業種・企業別","value":"industry","icon":"","isDefault":false,"type":"tag"},{"label":"ハンズオン","value":"handson","icon":"","isDefault":false,"type":"tag"}]}],"theme":"onLightBackground"}' data-filter-scope="events-japan" data-lb-comp="checkbox-filter" data-ui-scope="events-japan-cards2" id="aws-element-cba4d826-2558-4950-856c-69bc663546d8">
+           <script data-hbs-template-path="checkbox" type="text/x-handlebars-template">
+           </script>
+           <div class="lb-filter">
+           </div>
+          </div>
+         </div>
+         <div class="lb-tiny-iblock lb-btn" style="margin-bottom:50px;">
+          <a class="lb-btn-p-primary" href="#search" rel="noopener noreferrer" role="button" target="_blank">
+           <span>
+            AWS 主催イベントはこちら
+           </span>
+          </a>
+         </div>
+        </div>
+        <div class="lb-col lb-tiny-24 lb-mid-18">
+         <div class="m-directories-search" data-lb-comp="directories-search" data-search-scope="events-japan" data-ui-scope="events-japan-cards2" role="search">
+          <input aria-label="検索" autocomplete="off" placeholder="Search" role="searchbox" type="text"/>
+          <span aria-label="Clear Searchbox" class="m-hidden" role="button" tabindex="0">
+          </span>
+         </div>
+         <div class="lb-directory-cards aws-directories-items m-cards-light" data-api="search" data-cards-id="events-japan-cards2" data-directory-id="events-japan" data-error-message="問題が発生しました。通知を受信し、問題解決のための作業をしています。" data-expose-query-params="true" data-is-list="true" data-last-page-num="true" data-lb-comp="cards" data-pagination-error-message="Pagination limit reached. No items returned on the page." data-size="8" data-sort_order="desc" data-tag="events-japan#event-category#apn" data-theme-config='{"themeName":"events-list","themeVersion":"1.0.0","formatVersion":"1.0.0","themeJS":"master-card","skeletonType":"list","hasShare":true,"hasAddToCalendar":true,"isList":true,"mappings":{"requiredFields":{"category":"category","contentType":"contentType","headline":"headline","headlineUrl":"headlineUrl","description":"description","startDate":"startDate"},"optionalFields":{"subHeadline":"","expertise":"expertise","expertiseTooltip":"","imageAltText":"","imageSrcUrl":"","videoSrcUrl":"","featureFlag":"","endDate":"","duration":"duration","eventSubinfo":"eventSubinfo","outlookCalUrl":"","googleCalUrl":"","appleCalUrl":"","registerUrl":"","enableShare":"enableShare","trkOutputParam":"trkOutputParam","trkCampaign":"trkCampaign","trkOverrideWithQs":"trkOverrideWithQs"},"dialogFields":{"shareLinksLabel":"以下で共有する","facebookLabel":"Facebook","twitterLabel":"Twitter","linkedInLabel":"LinkedIn","copyUrlLabel":"リンクのコピー","addToLabel":"カレンダーに追加","registerLabel":"登録","outlookCalLabel":"Outlook","googleCalLabel":"Google","appleCalLabel":"Apple"}}}' data-theme-js="libra-cardsui/themes/master-card" id="aws-element-920f0cb4-346a-4a2b-bfd3-28a1dd6bec06">
+          <div class="m-cards-skl m-cards-skl-list">
+           <div class="lb-row lb-snap lb-row-max-large">
+            <div class="m-cards-skl-light">
+            </div>
+            <div class="m-cards-skl-light">
+            </div>
+            <div class="m-cards-skl-light">
+            </div>
+            <div class="m-cards-skl-light">
+            </div>
+            <div class="m-cards-skl-light">
+            </div>
+            <div class="m-cards-skl-light">
+            </div>
+            <div class="m-cards-skl-light">
+            </div>
+            <div class="m-cards-skl-light">
+            </div>
+           </div>
+          </div>
+          <div class="m-cards-header">
+           <span class="m-card-numbers">
+           </span>
+           <div class="lb-sr-only m-card-numbers-a11y" data-label-no-results="結果が見つかりません" data-label-showing-results="Showing results" data-label-total-results="Total results" role="status">
+           </div>
+           <span class="m-card-sort-container">
+            <div class="lb-form-item lb-label-left m-disabled m-sort m-sort-light" data-lb-comp="sort" data-sort-scope="events-japan" data-ui-scope="events-japan-cards2">
+             <label>
+              並び替え:
+             </label>
+             <div class="lb-dropdown lb-dropdown-p">
+              <div class="lb-dropdown-label" tabindex="0">
+               <span>
+                開始日時順に表示
+               </span>
+              </div>
+              <input class="lb-dropdown-selected" type="hidden"/>
+              <ul class="lb-dropdown-list" role="listbox">
+               <li class="lb-dropdown-item" data-sort-by="item.additionalFields.sortDateTime" data-sort-order="asc" data-value="item.additionalFields.sortDateTime-asc" role="option" tabindex="0">
+                <span>
+                 開始日時順に表示
+                </span>
+               </li>
+              </ul>
+             </div>
+            </div>
+           </span>
+          </div>
+          <div class="m-cards-no-items">
+           <div class="lb-txt-none lb-txt">
+            選択いただいた項目での検索結果はありません。
+           </div>
+          </div>
+          <script data-hbs-context='{"componentInstanceId":"aws-element-920f0cb4-346a-4a2b-bfd3-28a1dd6bec06"}' data-hbs-template-path="events-list/1.0.0/events-list" type="text/x-handlebars-template">
+          </script>
+          <div class="aws-directories-container-wrapper">
+           <section class="m-card-events-list lb-row lb-snap lb-row-max-large">
+            <ul class="aws-directories-container">
+            </ul>
+           </section>
+          </div>
+          <div class="m-cards-page-numbers">
+           <a aria-label="前のページ" class="m-icon-angle-left">
+           </a>
+           <a class="m-first-page m-page-link">
+            1
+           </a>
+           <span class="m-ellipses-before">
+            …
+           </span>
+           <div class="m-page-num-group">
+           </div>
+           <span class="m-ellipses-after">
+            …
+           </span>
+           <a class="m-last-page m-page-link">
+           </a>
+           <a aria-label="次のページ" class="m-icon-angle-right">
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="lb-mid-pad lb-none-v-margin lb-grid" style="background-color:#F1F4F6;">
+     <div class="lb-row lb-row-max-large lb-snap">
+      <div class="lb-col lb-tiny-24 lb-mid-24">
+       <div class="lb-none-pad lb-none-v-margin lb-grid" style="padding-top:30px; padding-bottom:30px;">
+        <div class="lb-row lb-row-max-large lb-snap lb-gutter-mid">
+         <div class="lb-col lb-tiny-24 lb-mid-6">
+          <div class="lb-tiny-align-center lb-large-align-center lb-txt-light lb-txt-none lb-txt-29 lb-txt-lead lb-txt">
+           Level 100
+          </div>
+          <div class="lb-tiny-align-center lb-large-align-center lb-txt-bold lb-txt-none lb-txt-orange lb-txt" style="color:#E8631A;">
+           Introductory
+          </div>
+          <div class="lb-txt-normal lb-txt-none lb-txt-12 lb-txt" style="margin-bottom:20px;">
+           AWS サービスの概要に焦点を当てており、参加者は対象のトピックに関する知識が全くない方を対象としています。
+          </div>
+         </div>
+         <div class="lb-col lb-tiny-24 lb-mid-6">
+          <div class="lb-tiny-align-center lb-large-align-center lb-txt-light lb-txt-none lb-txt-29 lb-txt-lead lb-txt">
+           Level 200
+          </div>
+          <div class="lb-tiny-align-center lb-large-align-center lb-txt-bold lb-txt-none lb-txt-orange lb-txt" style="color:#E8631A;">
+           Intermediate
+          </div>
+          <div class="lb-txt-normal lb-txt-none lb-txt-12 lb-txt" style="margin-bottom:20px;">
+           トピックの入門知識を持っていることを前提に、ベストプラクティス、サービス機能の詳細、およびデモを提供することに焦点を当てています。
+          </div>
+         </div>
+         <div class="lb-col lb-tiny-24 lb-mid-6">
+          <div class="lb-tiny-align-center lb-large-align-center lb-txt-light lb-txt-none lb-txt-29 lb-txt-lead lb-txt">
+           Level 300
+          </div>
+          <div class="lb-tiny-align-center lb-large-align-center lb-txt-bold lb-txt-none lb-txt-orange lb-txt" style="color:#E8631A;">
+           Advanced
+          </div>
+          <div class="lb-txt-normal lb-txt-none lb-txt-12 lb-txt" style="margin-bottom:20px;">
+           対象のトピックの詳細を提供するセッションです。参加者はそのトピックにある程度精通している方が対象です。ただし、同様のソリューションの実装経験がない場合もあります。
+          </div>
+         </div>
+         <div class="lb-col lb-tiny-24 lb-mid-6">
+          <div class="lb-tiny-align-center lb-large-align-center lb-txt-light lb-txt-none lb-txt-29 lb-txt-lead lb-txt">
+           Level 400
+          </div>
+          <div class="lb-tiny-align-center lb-large-align-center lb-txt-bold lb-txt-none lb-txt-orange lb-txt" style="color:#E8631A;">
+           Expert
+          </div>
+          <div class="lb-txt-normal lb-txt-none lb-txt-12 lb-txt">
+           トピックに精通しており、既に独自ソリューションを実装している方が対象です。複数のサービス、アーキテクチャによる実装でテクノロジーがどのように機能するかを解説します。
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="lb-small-hide lb-mid-hide lb-large-hide lb-xlarge-hide lb-none-pad lb-bottom-full-width lb-fixed-pos-wrapper" style="background-color:#000000; z-index:100;">
+     <div class="lb-bg-right-top-cover lb-none-pad lb-tiny-v-margin lb-box lb-has-link lb-hover-p-feature-shadow" style="padding-top:0px; color:#FFFFFF; padding-left:0px; padding-bottom:0px; background-image:url('https://d1.awsstatic.com/events/jp/2022/summit/cta-bg.019122f6dcafdb3fee593dd12b575ecc2e0a323c.jpg'); padding-right:0px;">
+      <a data-trk-params='{"trkCampaign":"builders-online-series","trkOutputParam":"trk"}' href="https://pages.awscloud.com/JAPAN-field-LN-aws-event-info-2021-reg.html" rel="noopener noreferrer" style="padding-top:0px; padding-left:0px; padding-bottom:0px; padding-right:0px;" target="_blank">
+       <div class="lb-tiny-align-center lb-txt-bold lb-txt-none lb-txt-white lb-txt-16 lb-small-pad lb-micro-v-margin lb-txt">
+        イベント情報メールに登録する »
+       </div>
+      </a>
+     </div>
+    </div>
+    <div class="lb-mbox js-mbox" data-lb-comp="mbox" data-lb-comp-ignore="true" data-mbox="jp_local_cta_set_bottom">
+    </div>
+   </main>
+  </div>
+  <footer class="m-page-footer" id="aws-page-footer" role="contentinfo">
+   <div class="data-attr-wrapper lb-none-v-margin lb-xb-grid-wrap" data-da-so-category="monitoring" data-da-so-language="jp" data-da-so-name="footer" data-da-so-type="viewport" data-da-so-version="a" data-da-type="so" style="background-color:#242F3E;">
+    <div class="lb-xb-grid lb-row-max-large lb-snap lb-tiny-xb-1 lb-small-xb-3 lb-large-xb-5">
+     <div class="lb-xbcol">
+      <div class="data-attr-wrapper lb-small-hide lb-btn" data-da-so-category="monitoring" data-da-so-language="jp" data-da-so-name="footer_buttons" data-da-so-type="viewport" data-da-so-url="all" data-da-so-version="footer_signin-mobile-default" data-da-type="so">
+       <a class="lb-btn-p-primary" href="https://console.aws.amazon.com/console/home?nc1=f_ct&amp;src=footer-signin-mobile" role="button">
+        <span>
+         コンソールにサインイン
+        </span>
+       </a>
+      </div>
+      <h3 class="lb-txt-none lb-txt-white lb-tiny-v-margin lb-h3 lb-title">
+       AWS について学ぶ
+      </h3>
+      <ul class="lb-txt-white lb-ul lb-list-style-none lb-li-micro-v-margin lb-tiny-ul-block" style="margin-bottom:0px;">
+       <li>
+        <a href="/jp/what-is-aws/?nc1=f_cc" rel="noopener noreferrer" target="_blank">
+         AWS とは
+        </a>
+       </li>
+       <li>
+        <a href="/jp/what-is-cloud-computing/?nc1=f_cc" rel="noopener noreferrer" target="_blank">
+         クラウドコンピューティングとは
+        </a>
+       </li>
+       <li>
+        <a href="/jp/diversity-inclusion/?nc1=f_cc" rel="noopener noreferrer" target="_blank">
+         AWS のインクルージョン、ダイバーシティ、および公平性
+        </a>
+       </li>
+       <li>
+        <a href="/jp/devops/what-is-devops/?nc1=f_cc" rel="noopener noreferrer" target="_blank">
+         DevOps とは
+        </a>
+       </li>
+       <li>
+        <a href="/jp/containers/?nc1=f_cc" rel="noopener noreferrer" target="_blank">
+         コンテナとは
+        </a>
+       </li>
+       <li>
+        <a href="/jp/big-data/datalakes-and-analytics/what-is-a-data-lake/?nc1=f_cc" rel="noopener noreferrer" target="_blank">
+         データレイクとは
+        </a>
+       </li>
+       <li>
+        <a href="/jp/security/?nc1=f_cc" rel="noopener noreferrer" target="_blank">
+         AWS クラウドセキュリティ
+        </a>
+       </li>
+       <li>
+        <a href="/jp/new/?nc1=f_cc" rel="noopener noreferrer" target="_blank">
+         最新情報
+        </a>
+       </li>
+       <li>
+        <a href="/jp/blogs/?nc1=f_cc" rel="noopener noreferrer" target="_blank">
+         ブログ
+        </a>
+       </li>
+       <li>
+        <a href="https://press.aboutamazon.com/aws" rel="noopener noreferrer" target="_blank">
+         Press Releases
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="lb-xbcol">
+      <h3 class="lb-txt-none lb-txt-white lb-tiny-v-margin lb-h3 lb-title">
+       AWS のリソース
+      </h3>
+      <ul class="lb-txt-white lb-ul lb-list-style-none lb-li-micro-v-margin lb-tiny-ul-block" style="margin-bottom:0px;">
+       <li>
+        <a href="/jp/getting-started/?nc1=f_cc" rel="noopener noreferrer" target="_blank">
+         開始方法
+        </a>
+       </li>
+       <li>
+        <a href="/jp/training/?nc1=f_cc" rel="noopener noreferrer" target="_blank">
+         トレーニングと認定
+        </a>
+       </li>
+       <li>
+        <a href="/jp/solutions/?nc1=f_cc" rel="noopener noreferrer" target="_blank">
+         AWS ソリューションライブラリ
+        </a>
+       </li>
+       <li>
+        <a href="/jp/architecture/?nc1=f_cc" rel="noopener noreferrer" target="_blank">
+         アーキテクチャセンター
+        </a>
+       </li>
+       <li>
+        <a href="/jp/faqs/?nc1=f_dr" rel="noopener noreferrer" target="_blank">
+         製品と技術上のよくある質問
+        </a>
+       </li>
+       <li>
+        <a href="/jp/resources/analyst-reports/?nc1=f_cc" rel="noopener noreferrer" target="_blank">
+         アナリストレポート
+        </a>
+       </li>
+       <li>
+        <a href="/jp/partners/work-with-partners/?nc1=f_dr" rel="noopener noreferrer" target="_blank">
+         AWS パートナー
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="lb-xbcol">
+      <h3 class="lb-txt-none lb-txt-white lb-tiny-v-margin lb-h3 lb-title">
+       AWS を利用するデベロッパー
+      </h3>
+      <ul class="lb-txt-white lb-ul lb-list-style-none lb-li-micro-v-margin lb-tiny-ul-block" style="margin-bottom:0px;">
+       <li>
+        <a href="/jp/developer/?nc1=f_dr" rel="noopener noreferrer" target="_blank">
+         デベロッパーセンター
+        </a>
+       </li>
+       <li>
+        <a href="/jp/developer/tools/?nc1=f_dr" rel="noopener noreferrer" target="_blank">
+         SDK とツール
+        </a>
+       </li>
+       <li>
+        <a href="/jp/developer/language/net/?nc1=f_dr" rel="noopener noreferrer" target="_blank">
+         AWS での .NET
+        </a>
+       </li>
+       <li>
+        <a href="/jp/developer/language/python/?nc1=f_dr" rel="noopener noreferrer" target="_blank">
+         AWS での Python
+        </a>
+       </li>
+       <li>
+        <a href="/jp/developer/language/java/?nc1=f_dr" rel="noopener noreferrer" target="_blank">
+         AWS での Java
+        </a>
+       </li>
+       <li>
+        <a href="/jp/developer/language/php/?nc1=f_cc" rel="noopener noreferrer" target="_blank">
+         AWS での PHP
+        </a>
+       </li>
+       <li>
+        <a href="/jp/developer/language/javascript/?nc1=f_dr" rel="noopener noreferrer" target="_blank">
+         AWS での JavaScript
+        </a>
+       </li>
+       <li>
+        <a href="/jp/builders-flash/?nc1=f_dr">
+         builders.flash (AWS 公式ウェブマガジン)
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="lb-xbcol">
+      <h3 class="lb-txt-none lb-txt-white lb-tiny-v-margin lb-h3 lb-title">
+       ヘルプ
+      </h3>
+      <ul class="lb-txt-white lb-ul lb-list-style-none lb-li-micro-v-margin lb-tiny-ul-block" style="margin-bottom:0px;">
+       <li>
+        <a href="/jp/contact-us/?nc1=f_m" rel="noopener noreferrer" target="_blank">
+         お問い合わせ
+        </a>
+       </li>
+       <li>
+        <a href="https://iq.aws.amazon.com/?utm=mkt.foot/?nc1=f_m" rel="noopener noreferrer" target="_blank">
+         専門家によるサポートを受ける
+        </a>
+       </li>
+       <li>
+        <a href="https://console.aws.amazon.com/support/home/?nc1=f_dr" rel="noopener noreferrer" target="_blank">
+         サポートチケットを申請する
+        </a>
+       </li>
+       <li>
+        <a href="https://repost.aws/?nc1=f_dr" rel="noopener noreferrer" target="_blank">
+         AWS re:Post
+        </a>
+       </li>
+       <li>
+        <a href="https://repost.aws/knowledge-center/?nc1=f_dr" rel="noopener noreferrer" target="_blank">
+         ナレッジセンター
+        </a>
+       </li>
+       <li>
+        <a href="/jp/premiumsupport/?nc1=f_dr" rel="noopener noreferrer" target="_blank">
+         AWS サポートの概要
+        </a>
+       </li>
+       <li>
+        <a href="/jp/legal/?nc1=f_cc" rel="noopener noreferrer" target="_blank">
+         法務関連
+        </a>
+       </li>
+       <li>
+        <a href="/jp/careers/" rel="noopener noreferrer" target="_blank">
+         AWS の採用情報
+        </a>
+       </li>
+      </ul>
+      <div class="lb-mbox js-mbox" data-lb-comp="mbox" data-lb-comp-ignore="true" data-mbox="en_footer-v3_addl-help">
+      </div>
+     </div>
+     <div class="lb-xbcol">
+      <div class="lb-mbox js-mbox" data-lb-comp="mbox" data-lb-comp-ignore="true" data-mbox="en_footer-v3_cta">
+       <div class="data-attr-wrapper lb-tiny-hide lb-small-show lb-btn" data-da-so-category="monitoring" data-da-so-language="jp" data-da-so-name="footer_buttons" data-da-so-type="viewport" data-da-so-url="all" data-da-so-version="footer_signup-default" data-da-type="so">
+        <a class="lb-btn-p-primary" href="https://portal.aws.amazon.com/gp/aws/developer/registration/index.html?nc1=f_ct&amp;src=default" role="button">
+         <span>
+          AWS アカウントを無料で作成
+         </span>
+        </a>
+       </div>
+      </div>
+      <div class="lb-xb-grid-wrap" style="padding-left:0px; margin-top:20px;">
+       <div class="lb-xb-grid lb-row-max-large lb-xb-equal-height lb-snap lb-gutter-collapse lb-vgutter-collapse lb-tiny-xb-auto">
+        <div class="lb-xbcol">
+         <a class="lb-txt-none lb-txt-white lb-none-pad lb-txt" href="https://twitter.com/awscloud" rel="noopener noreferrer" style="padding-left:0px; padding-right:5px;" target="_blank" title="Twitter">
+          <i class="icon-twitter">
+          </i>
+         </a>
+        </div>
+        <div class="lb-xbcol">
+         <a class="lb-txt-none lb-txt-white lb-none-pad lb-none-v-margin lb-txt" href="https://www.facebook.com/amazonwebservices" rel="noopener noreferrer" style="padding-right:5px;" target="_blank" title="Facebook">
+          <i class="icon-facebook">
+          </i>
+         </a>
+        </div>
+        <div class="lb-xbcol">
+         <a class="lb-txt-none lb-txt-white lb-none-pad lb-txt" href="https://www.twitch.tv/aws" rel="noopener noreferrer" style="padding-right:5px;" target="_blank" title="Twitch">
+          <i class="icon-twitch">
+          </i>
+         </a>
+        </div>
+        <div class="lb-xbcol">
+         <a class="lb-txt-none lb-txt-white lb-none-pad lb-txt" href="https://www.youtube.com/user/AmazonWebServices/Cloud/" rel="noopener noreferrer" style="padding-right:5px;" target="_blank" title="YouTube">
+          <i class="icon-youtube">
+          </i>
+         </a>
+        </div>
+        <div class="lb-xbcol">
+         <a class="lb-txt-none lb-txt-white lb-none-pad lb-txt" href="/jp/podcasts/" rel="noopener noreferrer" style="padding-right:5px;" target="_blank" title="Podcast">
+          <i class="icon-podcast">
+          </i>
+         </a>
+        </div>
+        <div class="lb-xbcol">
+         <a class="lb-txt-none lb-txt-white lb-none-pad lb-txt" href="https://pages.awscloud.com/communication-preferences?trk=homepage" rel="noopener noreferrer" style="padding-right:5px;" target="_blank" title="Email">
+          <i class="icon-envelope-o">
+          </i>
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="lb-txt-normal lb-txt-white lb-txt-14 lb-rtxt" style="color:#eaeded; margin-top:0px;">
+       <div>
+        Amazon は男女雇用機会均等法を順守しています。
+        <i>
+         人種、出身国、性別、性的指向、障がい、年齢、その他の属性によって差別することなく、平等に採用選考の機会を提供しています。
+        </i>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="lb-none-pad lb-none-v-margin lb-xb-grid-wrap" style="background-color:#242F3E;">
+    <div class="lb-xb-grid lb-row-max-large lb-snap lb-tiny-xb-1">
+     <div class="lb-xbcol">
+      <ul class="lb-txt-white lb-tiny-iblock lb-none-v-margin lb-ul lb-list-style-none lb-li-micro-v-margin lb-tiny-ul-iblock">
+       <li class="lb-txt-bold">
+        言語
+       </li>
+       <li data-language="ar" lang="ar-SA" translate="no">
+        <a href="https://aws.amazon.com/ar/?nc1=h_ls">
+         عربي
+        </a>
+       </li>
+       <li data-language="id" lang="id-ID" translate="no">
+        <a href="https://aws.amazon.com/id/?nc1=h_ls">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li data-language="de" lang="de-DE" translate="no">
+        <a href="https://aws.amazon.com/de/?nc1=h_ls">
+         Deutsch
+        </a>
+       </li>
+       <li data-language="en" lang="en-US" translate="no">
+        <a href="https://aws.amazon.com/?nc1=h_ls">
+         English
+        </a>
+       </li>
+       <li data-language="es" lang="es-ES" translate="no">
+        <a href="https://aws.amazon.com/es/?nc1=h_ls">
+         Español
+        </a>
+       </li>
+       <li data-language="fr" lang="fr-FR" translate="no">
+        <a href="https://aws.amazon.com/fr/?nc1=h_ls">
+         Français
+        </a>
+       </li>
+       <li data-language="it" lang="it-IT" translate="no">
+        <a href="https://aws.amazon.com/it/?nc1=h_ls">
+         Italiano
+        </a>
+       </li>
+       <li data-language="pt" lang="pt-BR" translate="no">
+        <a href="https://aws.amazon.com/pt/?nc1=h_ls">
+         Português
+        </a>
+       </li>
+       <li data-language="vi" lang="vi-VN" translate="no">
+        <a href="https://aws.amazon.com/vi/?nc1=f_ls">
+         Tiếng Việt
+        </a>
+       </li>
+       <li data-language="tr" lang="tr-TR" translate="no">
+        <a href="https://aws.amazon.com/tr/?nc1=h_ls">
+         Türkçe
+        </a>
+       </li>
+       <li data-language="ru" lang="ru-RU" translate="no">
+        <a href="https://aws.amazon.com/ru/?nc1=h_ls">
+         Ρусский
+        </a>
+       </li>
+       <li data-language="th" lang="th-TH" translate="no">
+        <a href="https://aws.amazon.com/th/?nc1=f_ls">
+         ไทย
+        </a>
+       </li>
+       <li data-language="jp" lang="ja-JP" translate="no">
+        <a href="https://aws.amazon.com/jp/?nc1=h_ls">
+         日本語
+        </a>
+       </li>
+       <li data-language="ko" lang="ko-KR" translate="no">
+        <a href="https://aws.amazon.com/ko/?nc1=h_ls">
+         한국어
+        </a>
+       </li>
+       <li data-language="cn" lang="zh-CN" translate="no">
+        <a href="https://aws.amazon.com/cn/?nc1=h_ls">
+         中文 (简体)
+        </a>
+       </li>
+       <li data-language="tw" lang="zh-TW" translate="no">
+        <a href="https://aws.amazon.com/tw/?nc1=h_ls">
+         中文 (繁體)
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+   <div class="lb-none-pad lb-none-v-margin lb-xb-grid-wrap" style="background-color:#EAEDED; padding-top:5px;">
+    <div class="lb-xb-grid lb-row-max-large lb-snap lb-tiny-xb-1">
+     <div class="lb-xbcol">
+      <ul class="lb-txt-squid lb-none-v-margin lb-ul lb-list-style-none lb-li-none-v-margin lb-tiny-ul-iblock">
+       <li>
+        <a href="https://aws.amazon.com/privacy/?nc1=f_pr">
+         プライバシー
+        </a>
+       </li>
+       <li>
+        |
+       </li>
+       <li>
+        <a href="https://aws.amazon.com/terms/?nc1=f_pr">
+         サイト規約
+        </a>
+       </li>
+       <li>
+        |
+       </li>
+       <li data-cookie-consent-modal="1">
+        <a href="#">
+         Cookie の詳細設定
+        </a>
+       </li>
+       <li>
+        |
+       </li>
+       <li>
+        © 2023, Amazon Web Services, Inc. or its affiliates.All rights reserved.
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+  </footer>
+  <div id="aws-page-end">
+  </div>
+  <div id="lb-page-end">
+  </div>
+  <script src="https://a0.awsstatic.com/da/js/1.0.50/aws-da.js">
+  </script>
+  <div id="mrc-sunrise-chat">
+  </div>
+  <script defer="" id="mrc-sunrise-chat-loader" src="https://loader.us-east-1.prod.mrc-sunrise.marketing.aws.dev/loader.js">
+  </script>
+  <!--[if lte IE 9]>
+  <p class="deprecated-browser-support-message">
+    古いブラウザが使用されています。正常に表示するには、最新のブラウザを使用してください。<img src="https://fls-na.amazon.com/1/action-impressions/1/OE/aws-mktg/action/awsm_:comp_DeprecatedBrowser@v=1:u=c?dataset=LIVE:PROD&instance=PUB&client=dsk&marketplaceId=A12QK8IU0H0XW5&requestId=ABCDEFGHIJKLMNOPQRST&session=123-1234567-1234567"
+           alt="deprecated-browser pixel tag" />
+      </p>
+<![endif]-->
+  <div class="lb-skt-overlay lb-modal lb-comp-content-container" data-ie10-deprecation-msg="古いブラウザが使用されています。正常に表示するには、最新のブラウザを使用してください。" data-lb-comp="modal" data-lb-modal-id="ie-deprecation-msg">
+   <div class="lb-modal-dialog">
+    <div class="lb-modal-content">
+     <div class="lb-modal-header">
+      <h4 class="lb-h4">
+       Internet Explorer のサポートの終了
+      </h4>
+      <a class="lb-modal-close" href="#" role="button" title="Close">
+       <span class="lb-sr-only">
+        了承しました
+       </span>
+      </a>
+     </div>
+     <div class="lb-modal-body">
+      AWS support for Internet Explorer は 07/31/2022 に終了します。サポートされているブラウザは、Chrome、Firefox、Edge、Safari です。
+      <a href="https://aws.amazon.com/blogs/aws/heads-up-aws-support-for-internet-explorer-11-is-ending/" rel="noopener">
+       詳細はこちら »
+      </a>
+     </div>
+     <div class="lb-modal-footer">
+      <a class="lb-btn-p-primary lb-modal-close lb-modal-action" role="button">
+       了承しました
+      </a>
+     </div>
+    </div>
+   </div>
+  </div>
+  <a data-lb-modal-trigger="ie-deprecation-msg" style="display: none;">
+  </a>
+  <!-- cms_updated_at: 2023-11-01T03:22:25.601-0700 -->
+ </body>
+</html>
